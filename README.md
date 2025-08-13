@@ -12,6 +12,9 @@ O objetivo é criar um aplicativo de carrinho de compras para uma loja online de
 |![PN1](https://github.com/user-attachments/assets/a3fe9b3a-aed1-4b8d-9731-257795c66c04)|![PN2](https://github.com/user-attachments/assets/62148aa6-cdb2-4a7d-b28a-3898e0d42cdf) |![PN3](https://github.com/user-attachments/assets/fcbe8c4b-8b3a-4594-8a08-5a6f6be83e42)|
 
 ---
+## Link da Página
+[Paradise Nursery - Carrinho de Compras de Plantas](https://github.com/pauloricardopg/ReactJS-IBM)
+---
 
 ## ✨ Funcionalidades
 
