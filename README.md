@@ -13,7 +13,7 @@ O objetivo é criar um aplicativo de carrinho de compras para uma loja online de
 
 ---
 ## Link da Página
-https://github.com/pauloricardopg/ReactJS-IBM)](https://pauloricardopg.github.io/ReactJS-IBM/
+https://pauloricardopg.github.io/ReactJS-IBM/
 ---
 
 ## ✨ Funcionalidades
